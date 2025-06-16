@@ -1,33 +1,64 @@
-# 💫 Sobre mí:
-🎯 Soy Javier, un apasionado del desarrollo frontend con gusto por crear interfaces limpias, rápidas y funcionales.<br>🌍 Siempre en busca de aprender más y asumir nuevos retos.<br>🚀 Actualmente explorando a fondo herramientas modernas como React, Next.js y Tailwind CSS.<br>🧠 Me encanta unir diseño con funcionalidad: el detalle visual importa, pero también que todo funcione perfecto.<br>💡 ¿Colaboramos? Estoy abierto a proyectos donde pueda aportar creatividad y código.
+# 👋 ¡Hola! Soy **Javier**
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![LESS](https://img.shields.io/badge/less-%231d365d.svg?style=for-the-badge&logo=less&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![Next JS](https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=JavierUsername&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=JavierUsername&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=JavierUsername&theme=dark&hide_border=false&layout=compact)
-
-## 🏆 GitHub Trofeos
-![](https://github-profile-trophy.vercel.app/?username=JavierUsername&theme=onedark&no-frame=true&no-bg=false&margin-w=4)
-
-### ✍️ Frase de Desarrollador
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-[![](https://visitcount.itsvg.in/api?id=JavierUsername&icon=2&color=4)](https://visitcount.itsvg.in)
+🎨 Desarrollador **Frontend** apasionado por crear interfaces atractivas, accesibles y funcionales.  
+💻 Amante de la tecnología, el diseño responsivo y la experiencia de usuario bien pensada.  
+🚀 Explorando tecnologías modernas como **React**, **Next.js** y **Tailwind CSS**.  
+🤝 Abierto a colaborar en proyectos interesantes y retadores.  
 
 ---
 
-🔧 **Editado por Javier**  
-📅 Última actualización: 16/06/2025
+## 🛠️ Tecnologías y Herramientas
+
+### 💡 Frontend
+[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]() 
+[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]() 
+[![LESS](https://img.shields.io/badge/-LESS-2A4D80?style=for-the-badge&logo=less&logoColor=white)]()  
+[![Tailwind](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)]() 
+[![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)]()
+
+### ⚙️ Programación
+[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]() 
+[![React](https://img.shields.io/badge/-React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)]() 
+[![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)]()
+
+### 📦 Herramientas
+[![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)]() 
+[![NPM](https://img.shields.io/badge/-NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)]()
+
+---
+
+## 📊 Estadísticas de GitHub
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JavierUsername&show_icons=true&theme=tokyonight&hide_border=false" width="47%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JavierUsername&theme=tokyonight&hide_border=false" width="47%"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JavierUsername&layout=compact&theme=tokyonight&hide_border=false" width="47%"/>
+</div>
+
+---
+
+## 🏆 Trofeos
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=JavierUsername&theme=dracula&no-frame=true&row=1&column=6"/>
+</div>
+
+---
+
+## 💬 Frase de desarrollador
+
+> ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+
+---
+
+## 📈 Visitas al perfil
+[![Visitantes](https://visitcount.itsvg.in/api?id=JavierUsername&icon=5&color=6)](https://visitcount.itsvg.in)
+
+---
+
+✍️ _Última actualización: 16 de junio de 2025_  
+🔗 **Desarrollado por Javier**
+
