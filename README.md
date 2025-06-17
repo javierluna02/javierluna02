@@ -1,8 +1,8 @@
-<h1 align="center">Hola 👋, soy Javier</h1>
-<h3 align="center">Frontend Developer enfocado en crear interfaces modernas, rápidas y funcionales.</h3>
+<h1 align="center">✨ Hola, soy Javier 👋</h1>
+<h3 align="center">Frontend Developer — Interfaces modernas, rápidas y funcionales</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=450&lines=Desarrollador+Frontend;Amante+de+la+web+moderna;React+%7C+Next.js+%7C+Tailwind+CSS;Siempre+aprendiendo+y+construyendo" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=Desarrollador+Frontend;Apasionado+por+el+diseño+web;React+%7C+Next.js+%7C+Tailwind+CSS;Siempre+aprendiendo+y+creando" alt="Typing SVG" />
 </p>
 
 ---
@@ -18,28 +18,31 @@
 
 ## 🛠️ Stack Tecnológico
 
-<div align="center">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,less,tailwind,bootstrap,js,react,nextjs,nodejs,npm" />
-</div>
+</p>
 
 ---
 
 ## 📈 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JavierUsername&show_icons=true&theme=radical&hide_border=true" width="47%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=JavierUsername&theme=radical&hide_border=true" width="47%"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JavierUsername&show_icons=true&theme=tokyonight&hide_border=true" width="47%" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JavierUsername&layout=compact&theme=radical&hide_border=true" width="47%"/>
-</div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JavierUsername&layout=compact&theme=tokyonight&hide_border=true" width="47%" />
+</p>
 
 ---
 
-## 🏆 Trofeos
+## 🏆  🤝 Trofeos de Compañerismo
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JavierUsername&theme=algolia&no-frame=true&margin-w=10" />
-</p>
+<div align="center">
+  <img src="https://img.shields.io/badge/🤝%20Espíritu%20colaborativo-0078D4?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/🧠%20Mentor%20de%20otros-FBCA04?style=for-the-badge&logo=graphql&logoColor=black" />
+  <img src="https://img.shields.io/badge/💬%20Buen%20comunicador-28a745?style=for-the-badge&logo=slack&logoColor=white" />
+  <img src="https://img.shields.io/badge/🎯%20Feedback%20constructivo-FF6F00?style=for-the-badge&logo=gitbook&logoColor=white" />
+  <img src="https://img.shields.io/badge/🌈%20Siempre%20positivo-17A2B8?style=for-the-badge&logo=vercel&logoColor=white" />
+</div>
 
 ---
 
@@ -51,14 +54,24 @@
 
 ---
 
-## 📊 Contador de visitas
+![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](https://github.com/JayantGoel001/JayantGoel001/blob/master/github-contribution-grid-snake.svg)
+
+
+<h1>
+  Connect With Me
+  <a target="_blank">
+    <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Handshake.gif" height="25px" style="max-width:100%;">
+  </a>
+</h1>
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=JavierUsername&icon=2&color=6" />
+  <em>¡Gracias por visitar mi perfil! 🚀 Siempre estoy construyendo algo nuevo y aprendiendo en el camino.</em>
 </p>
 
 ---
 
+![footer](https://github.com/JayantGoel001/JayantGoel001/blob/master/WEBP/footer.webp)
+
 <p align="center">
-  Hecho con 💻 por <strong>Javier</strong> • Última actualización: 16/06/2025
+  Hecho con 💻 por <strong>Javier</strong> • Última actualización: 17/06/2025
 </p>
